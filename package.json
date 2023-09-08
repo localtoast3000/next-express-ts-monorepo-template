@@ -1,10 +1,9 @@
 {
-  "name": "youtube-clone",
+  "name": "node-monorepo-template-next-express-ts",
   "version": "1.0.0",
-  "description": "Monorepo for Custom Creations apps",
-  "main": "index.js",
+  "description": "Monorepo template provided with Next.js and Express.js",
   "repository": {
-    "url": "https://github.com/localtoast3000/youtube-clone.git"
+    "url": "https://github.com/localtoast3000/node-monorepo-template-next-express-ts.git"
   },
   "author": "Craig Chick",
   "private": true,
